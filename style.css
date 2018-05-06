@@ -1,0 +1,80 @@
+body{
+	margin: 0;
+	background-color:none;
+
+}
+.header{
+	background: linear-gradient(to right,rgba(30,
+		75,115,1), rgba(225,255,255,0));
+	height: 20vh;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+
+}
+
+.logo{
+	width: 20%;
+	display:inline-block;
+	text-align: center;
+
+}
+.logo img{
+	width: 100%;
+}
+.future{
+   text-align: center;
+   border: 30%
+   padding:30;
+   margin:30;
+   font-family: Tahoma;
+}
+.future img{
+	border-style:ridge;
+}
+#future{
+	border: 30%;
+	background-image: 
+}
+
+.footer{
+	background-color: royalblue;
+	font-family: Tahoma;
+}
+
+.links{
+	display: inline-block;
+	width: 30%;
+	
+}
+.search{
+	display: inline-block;
+	width: 40%;
+    font-family:Tahoma;
+
+}
+
+.search input{
+	width: 90%;
+	padding: 12px;
+	border-radius: 8px 8px;
+	font-family: Tahoma;
+}
+
+.socials{
+	display: inline-block;
+	width: 30%;
+	vertical-align: bottom;
+}
+.Capa_1{
+	height: 30px;
+	display:inline-block;
+	width: 30px;
+	color: #fff;
+	padding: 10px;
+}
+.Capa_1:hover{
+     opacity: 0.5;
+     transition:opacity.15s ease-in;
+}
+
